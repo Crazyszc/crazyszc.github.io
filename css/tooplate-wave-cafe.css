@@ -200,10 +200,16 @@ h2 { margin-top: 0; }
     color: #96FEFF;
     /* margin-left: 0px; */
 }
+
 .tm-list-item-text-2-2{
     color: #96FEFF;
     /* margin-left: 0px; */
-    font-size: 12px;
+    font-size: 15px;
+}
+
+.tm-list-item-text-2-3{
+    color: #96FEFF;
+    font-size: 10px;  
 }
 
 
