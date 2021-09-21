@@ -6,6 +6,8 @@ https://www.tooplate.com/view/2121-wave-cafe
 
 */
 
+
+
 html { scroll-behavior: smooth; }
 
 body {
@@ -185,13 +187,39 @@ h2 { margin-top: 0; }
     flex: 1;
 }
 
-.tm-list-item-text-2 { flex: 1; }
+.tm-list-item-text-2 { 
+    flex: 1;
+ }
+
+ .tm-list-item-text-2-p{
+     line-height: 1;
+ }
+
+
+.tm-list-item-text-2-1{
+    color: #96FEFF;
+    /* margin-left: 0px; */
+}
+.tm-list-item-text-2-2{
+    color: #96FEFF;
+    /* margin-left: 0px; */
+    font-size: 12px;
+}
+
 
 .tm-list-item-name {
     display: flex;
     justify-content: space-between;
     margin-top: 0;
 }
+
+.tm-list-item-name-1{ 
+    margin-top: 8px;
+    /* margin-right: 20%; */
+    font-size:15px;
+}
+
+
 
 .tm-list-item-price { color: #96FEFF; }
 .tm-site-footer { margin-top: 15px; }
